@@ -9,6 +9,9 @@ This project is a **Face Recognition Based Attendance System** that simplifies t
 - **Attendance Tracking:** Recognize faces in real-time via webcam and mark attendance in a CSV file.
 - **Tkinter GUI:** User-friendly graphical interface for accessing all system features.
 
+## Demonstration
+Watch the full demonstration of the project on YouTube: [Face Recognition Based Attendance System Demo](https://youtu.be/xE6-FPF9Pow?si=3sD1bgp2BDZP0rYo)
+
 ## How It Works
 1. **Login:** The system requires a password for access. You can customize the password in the script.
 2. **Register New Users:** Add new users by providing a unique ID and name. The system captures multiple face images for each user.
