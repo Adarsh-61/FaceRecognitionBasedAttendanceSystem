@@ -1,0 +1,33 @@
+# Create a virtual environment
+python -m venv myenv
+
+# Activate the virtual environment
+myenv\Scripts\activate
+
+# Install the required libraries
+python -m pip install --upgrade pip
+pip install numpy
+pip install pandas
+pip install tf-keras
+pip install pillow
+pip install opencv-python
+pip install face-recognition
+pip install deepface
+pip install retinaface
+pip install mediapipe
+pip install openpyxl
+pip install xlrd
+pip install xlwt
+pip install xlutils
+pip install python-csv
+pip install yfinance
+pip install cmake
+pip install cx-Freeze
+pip install pytest-shutil
+pip install googletrans==4.0.0-rc1
+pip install protobuf
+pip install tk
+pip install tk-tools
+pip install screen-brightness-control
+pip install datetime
+pip install times
